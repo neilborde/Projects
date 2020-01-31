@@ -1,4 +1,8 @@
 # Projects
+To build:
+Conways: Need Qt Creator installed, then open .pro file in Qt Creator and click run in Qt Creator
+Everything else, dowload all files and compile using g++, run executable, none require any parameters.
+
 
 
 # Conway's Game of Life:
